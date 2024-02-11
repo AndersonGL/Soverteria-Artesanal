@@ -8,18 +8,18 @@ export default function Footer() {
           <img src='assets/logo.png' alt='logomarca'/>
           <div>
              <h3>ENDEREÇO</h3>
-             <p>Rua Carmo Coelho n° 147</p>
-             <p>Santana, Ribeirão Pires-SP</p>
+             <p>Av. Paulista s/n</p>
+             <p>São Paulo, São Paulo-SP</p>
             </div>
             <div>
                 <h3>CONTATO</h3>
                 <p>gelateria-artesanal.com.br</p>
-                <p>Tel: (11)3456-7890</p>
+                <p>Tel: (11)99999-9999</p>
             </div>
             <div>
                 <h3>HORÁRIOS</h3>
-                <p>ABERTO DE SEGUNDA Á SEXTA</p>
-                <p>08:00hs ás 18:00hs</p>
+                <p>ABERTO DE SEGUNDA Á SEGUNDA</p>
+                <p>10:00hs ás 22:00hs</p>
             </div>
         </div>
         <div className='limitar-secao direto-autoral'>
